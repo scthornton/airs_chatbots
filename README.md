@@ -32,11 +32,11 @@ Two complete chatbot implementations showcasing how to integrate AI Runtime Secu
 
 ```
 secure-chatbot/
-├── chatbot_sdk.py          # Python SDK implementation
-├── chatbot_api.py          # Direct API implementation
+├── secure_chatbot_python.py          # Python SDK implementation
+├── secure_chatbot_api.py             # Direct API implementation
 ├── README.md               # This file
 ├── requirements.txt        # Python dependencies
-├── .env.example           # Environment variables template
+├── .env.example            # Environment variables template
 └── docs/
     ├── setup-guide.md     # Detailed setup instructions
     └── api-reference.md   # API usage examples
@@ -54,7 +54,7 @@ secure-chatbot/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/secure-chatbot.git
+git clone https://github.com/scthornton/airs_chatbots.git
 cd secure-chatbot
 
 # Create virtual environment
@@ -351,6 +351,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for secure AI applications**
 
-[⭐ Star this repo](https://github.com/your-username/secure-chatbot) • [🐛 Report Bug](https://github.com/your-username/secure-chatbot/issues) • [💡 Request Feature](https://github.com/your-username/secure-chatbot/issues)
+[⭐ Star this repo](https://github.com/scthornton/airs_chatbots) • [🐛 Report Bug](https://github.com/scthornton/airs_chatbots/issues) • [💡 Request Feature](https://github.com/scthornton/airs_chatbots/issues)
 
 </div>
