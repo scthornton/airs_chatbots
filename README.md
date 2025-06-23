@@ -54,7 +54,7 @@ secure-chatbot/
 
 ```bash
 # Clone the repository
-git clone https://github.com/scthornton/airs_chatbots.git
+git clone https://github.com/scthornton/secure_chatbot.git
 cd secure-chatbot
 
 # Create virtual environment
