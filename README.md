@@ -351,6 +351,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for secure AI applications**
 
-[⭐ Star this repo](https://github.com/scthornton/airs_chatbots) • [🐛 Report Bug](https://github.com/scthornton/airs_chatbots/issues) • [💡 Request Feature](https://github.com/scthornton/airs_chatbots/issues)
+[⭐ Star this repo](https://github.com/scthornton/secure_chatbot) • [🐛 Report Bug](https://github.com/scthornton/secure_chatbot/issues) • [💡 Request Feature](https://github.com/scthornton/secure_chatbot/issues)
 
 </div>
