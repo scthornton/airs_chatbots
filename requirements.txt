@@ -1,0 +1,52 @@
+# Secure Chatbot with Palo Alto Networks AI Runtime Security
+# Requirements file for both Python SDK and Direct API versions
+
+# Core Python packages
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Azure OpenAI integration
+openai>=1.35.0
+
+# Palo Alto Networks AI Runtime Security SDK
+# Note: This requires special configuration for Palo Alto Networks repository
+# Follow installation guide: https://docs.paloaltonetworks.com/ai-runtime-security/activation-and-onboarding/ai-runtime-security-api-intercept-overview/airs-apis-python-sdk
+aisecurity>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# GUI Framework (included with Python, but listed for clarity)
+# tkinter - included with Python standard library
+
+# Optional: Development and testing dependencies
+# Uncomment if you need these for development
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.5.0
+
+# Optional: Enhanced error handling and logging
+# Uncomment if you want more advanced logging
+# loguru>=0.7.0
+# colorama>=0.4.6
+
+# Optional: Configuration management
+# Uncomment if you want YAML/TOML config support
+# pyyaml>=6.0.1
+# toml>=0.10.2
+
+# Optional: Enhanced JSON handling
+# Uncomment if you need more JSON features
+# ujson>=5.8.0
+
+# Optional: Async support (if you extend the async functionality)
+# Uncomment if you plan to add more async features
+# aiohttp>=3.8.0
+# asyncio-throttle>=1.0.0
+
+# Security: Pin versions for production use
+# For production, consider pinning exact versions like:
+# requests==2.31.0
+# openai==1.35.0
+# python-dotenv==1.0.0
